@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 int main() {
-
+	//acÄ±klamalar websitemde:emrecangok.blogspot.com
 	int sayilar[3];
 	printf("sayiyi giriniz\n");
 	scanf("%d",&sayilar[0]);
@@ -14,7 +14,7 @@ int main() {
 		sayilar[1] = sayilar[2];
 
 	}
-	//büyük ve küçük sayıyı belirledik dizinin 2. indisi yani dizi[2] gecici degerleri tutmak içindir
+	//bÃ¼yÃ¼k ve kÃ¼Ã§Ã¼k sayÄ±yÄ± belirledik dizinin 2. indisi yani dizi[2] gecici degerleri tutmak iÃ§indir
 
 	ihtar:
 	if (sayilar[0]%sayilar[1]==0)
